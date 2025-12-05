@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=2000&color=FF1493&center=true&vCenter=true&repeat=true&width=950&lines=✨+Hola%2C+soy+C.LILIANA+L.C+✨;🧩+Código+que+funciona,+diseño+que+conecta+🐞;💻+Desarrolladora+FullStack;☕+Java+Junior;🎨+Frontend+%26+Backend+⚙️&delete=false" style="animation: fadeInOut 8s ease-in-out infinite;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=2000&color=FF1493&center=true&vCenter=true&repeat=true&width=950&lines=✨+Hola%2C+soy+LILIANA+L.J+✨;🧩+Código+que+funciona,+diseño+que+conecta+🐞;💻+Desarrolladora+Software+Junior;🎨+Frontend+Html,+Css,+Js,+Tailwind,+React;☕+Backend+Java,+Angular,+Spring+boot⚙️&delete=false" style="animation: fadeInOut 8s ease-in-out infinite;" />
 </div>
 
 ---
@@ -41,6 +41,6 @@
     <img src="https://img.shields.io/badge/Instagram-8B0000?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://tupagina.dev" target="_blank">
-  <img src="https://img.shields.io/badge/Pagina WEB-2E0854?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pagina WEB-8B008B?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
