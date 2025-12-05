@@ -22,8 +22,8 @@
   <img src="https://img.shields.io/badge/📊 Estadísticas-0F3057?style=for-the-badge" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LlyTware-io&layout=compact&theme=radical&hide_border=true&title_color=FF1493" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api?username=LlyTware-io&show_icons=true&theme=radical&hide_border=true&title_color=FF1493&icon_color=00FF7F&rank_icon=github" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaidenTware&layout=compact&theme=radical&hide_border=true&title_color=FF1493" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MaidenTware&show_icons=true&theme=radical&hide_border=true&title_color=FF1493&icon_color=00FF7F&rank_icon=github" height="150" />
 </p>
 
 
