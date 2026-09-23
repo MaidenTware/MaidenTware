@@ -155,64 +155,146 @@
 <h2 align="center">🚀 Proyectos</h2>
 
 <p align="center">
-
-  <a href="https://github.com/MaidenTware">
-    <img src="https://img.shields.io/badge/🐱%20Catmoon%2FFIP-FF1493?style=for-the-badge"/>
-  </a>
-
-  <a href="https://github.com/MaidenTware">
-    <img src="https://img.shields.io/badge/💻%20Web%20Projects-0F3057?style=for-the-badge"/>
-  </a>
-
-  <a href="https://github.com/MaidenTware">
-    <img src="https://img.shields.io/badge/🧪%20Experimentos-5B2C83?style=for-the-badge"/>
-  </a>
-
+  Una colección de proyectos académicos, personales y experimentales.
 </p>
 
 <br>
 
 <table align="center">
+
 <tr>
 
 <td width="50%" valign="top">
 
-<h3 align="center">🐱 Catmoon/FIP</h3>
+<h3 align="center">01 · 🚀 Proyecto</h3>
 
 <p align="center">
-Aplicación web orientada a centralizar información, herramientas de apoyo y recursos relacionados con FCoV y PIF.
+  <strong>Nombre del proyecto</strong>
+</p>
+
+<p align="center">
+  Descripción breve del proyecto y del problema que busca solucionar.
 </p>
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
 
+</p>
+
+<p align="center">
+  <a href="https://github.com/MaidenTware">
+    <img src="https://img.shields.io/badge/Ver%20proyecto-FF1493?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 </td>
 
 <td width="50%" valign="top">
 
-<h3 align="center">💻 Próximos proyectos</h3>
+<h3 align="center">02 · 💻 Proyecto</h3>
 
 <p align="center">
-Aplicaciones, sitios web y pequeños experimentos para seguir fortaleciendo mis habilidades de desarrollo.
+  <strong>Nombre del proyecto</strong>
+</p>
+
+<p align="center">
+  Descripción breve del proyecto y de las funcionalidades principales.
 </p>
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Building-FF1493?style=flat-square"/>
-<img src="https://img.shields.io/badge/Learning-0F3057?style=flat-square"/>
-<img src="https://img.shields.io/badge/Improving-00A86B?style=flat-square"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
 
+</p>
+
+<p align="center">
+  <a href="https://github.com/MaidenTware">
+    <img src="https://img.shields.io/badge/Ver%20proyecto-0F3057?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 </td>
 
 </tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3 align="center">03 · 🧩 Proyecto</h3>
+
+<p align="center">
+  <strong>Nombre del proyecto</strong>
+</p>
+
+<p align="center">
+  Descripción breve del proyecto, objetivo y tecnologías utilizadas.
+</p>
+
+<p align="center">
+
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+
+</p>
+
+<p align="center">
+  <a href="https://github.com/MaidenTware">
+    <img src="https://img.shields.io/badge/Ver%20proyecto-5B2C83?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3 align="center">04 · 🧪 Proyecto</h3>
+
+<p align="center">
+  <strong>Nombre del proyecto</strong>
+</p>
+
+<p align="center">
+  Descripción breve del proyecto y principales aprendizajes obtenidos.
+</p>
+
+<p align="center">
+
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+
+</p>
+
+<p align="center">
+  <a href="https://github.com/MaidenTware">
+    <img src="https://img.shields.io/badge/Ver%20proyecto-00A86B?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+</td>
+
+</tr>
+
 </table>
+
+<br>
+
+<p align="center">
+
+  <img src="https://img.shields.io/badge/05-FF1493?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/06-0F3057?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/07-5B2C83?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/08-00A86B?style=for-the-badge"/>
+
+</p>
+
+<p align="center">
+  <em>Más proyectos próximamente...</em> 🚧
+</p>
 
 ---
 
@@ -220,7 +302,7 @@ Aplicaciones, sitios web y pequeños experimentos para seguir fortaleciendo mis 
 <!--                     GITHUB ACTIVITY                          -->
 <!-- ═════════════════════════════════════════════════════════════ -->
 
-<h2 align="center">📊 Mi actividad</h2>
+<h2 align="center">📊 Mi actividad en GitHub</h2>
 
 <p align="center">
 
@@ -232,20 +314,14 @@ Aplicaciones, sitios web y pequeños experimentos para seguir fortaleciendo mis 
 
 </p>
 
-<br>
-
 <p align="center">
-  <strong>💡 Código, commits y pequeños pasos.</strong>
-</p>
-
-<p align="center">
-  Cada repositorio es parte del proceso.
+  💻 Código &nbsp;•&nbsp; 🧩 Proyectos &nbsp;•&nbsp; 🚀 Aprendizaje &nbsp;•&nbsp; 📈 Evolución
 </p>
 
 ---
 
 <!-- ═════════════════════════════════════════════════════════════ -->
-<!--                       GITHUB TROPHY                          -->
+<!--                     GITHUB TROPHY                            -->
 <!-- ═════════════════════════════════════════════════════════════ -->
 
 <h2 align="center">🏆 GitHub Journey</h2>
@@ -295,12 +371,20 @@ Aplicaciones, sitios web y pequeños experimentos para seguir fortaleciendo mis 
 
 <p align="center">
 
+  <a href="https://github.com/MaidenTware">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
   <a href="https://www.linkedin.com/in/desarrolladorafullstack-lilianalc/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
-  <a href="https://github.com/MaidenTware">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="https://www.instagram.com/TU-USUARIO">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+
+  <a href="https://twitter.com/TU-USUARIO">
+    <img src="https://img.shields.io/badge/X%20%2F%20Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
 
 </p>
@@ -308,7 +392,7 @@ Aplicaciones, sitios web y pequeños experimentos para seguir fortaleciendo mis 
 <br>
 
 <p align="center">
-  <strong>✨ Código que funciona, diseño que conecta. 🧩</strong>
+  <strong>✨ Código que funciona, diseño que conecta. 🐞</strong>
 </p>
 
 <br>
