@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=2000&color=FF1493&center=true&vCenter=true&repeat=true&width=950&lines=✨+Hola%2C+soy+LILIANA+L.J+✨;🧩+Código+que+funciona,+diseño+que+conecta+🐞;💻+Desarrolladora+Software+Junior;🎨+Frontend+Html,+Css,+Js,+Tailwind,+React;☕+Backend+Java,+Angular,+Spring+boot⚙️&delete=false" style="animation: fadeInOut 8s ease-in-out infinite;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=2000&color=FF1493&center=true&vCenter=true&repeat=true&width=950&lines=✨+Hola%2C+soy+LILIANA+L.C+✨;🧩+Código+que+funciona,+diseño+que+conecta+🐞;💻+Desarrolladora+Software+Junior;🎨+Frontend+Html,+Css,+Js,+Tailwind,+React;☕+Backend+Java,+Angular,+Spring+boot,+Python,+Flask,+Django;📈Base de datos,+MySQL,+Mongo⚙️&delete=false" style="animation: fadeInOut 8s ease-in-out infinite;" />
 </div>
 
 ---
