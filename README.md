@@ -21,23 +21,13 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/%F0%9F%93%8A%20Estad%C3%ADsticas-0F3057?style=for-the-badge&labelColor=0F3057&color=FF1493" alt="Estadísticas GitHub" />
-</p>
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaidenTware&layout=compact&theme=radical&hide_border=true&langs_count=6"
-    height="180"
-    alt="Lenguajes más utilizados"
-  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaidenTware&layout=compact" height="180" alt="Lenguajes más utilizados">
 
-<img 
- src="https://github-readme-stats.vercel.app/api?username=MaidenTware&show_icons=true&theme=radical&hide_border=true"
- height="180"
- alt="Estadísticas de GitHub"
-/>
+<img src="https://github-readme-stats.vercel.app/api?username=MaidenTware&show_icons=true" height="180" alt="Estadísticas de GitHub">
 
 </p>
+
 
 
 
