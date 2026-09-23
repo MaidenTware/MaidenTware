@@ -9,25 +9,35 @@
   <img src="https://img.shields.io/badge/🔹 Hard skills-0F3057?style=for-the-badge" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,angular,react,nodejs,js,ts,html,css,mysql" />
+  <img src="https://skillicons.dev/icons?i=java,spring,angular,react,nodejs,js,ts,html,css,mysql,python" />
 </p>
 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,idea" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea" />
   <img src="https://img.shields.io/badge/JUnit-25A162?style=flat-square&logo=java&logoColor=white" />
 </p>
 
 ---
 
-<p>
-  <img src="https://img.shields.io/badge/📊 Estadísticas-0F3057?style=for-the-badge" />
-</p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaidenTware&layout=compact&theme=radical&hide_border=true&title_color=FF1493" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api?username=MaidenTware&show_icons=true&theme=radical&hide_border=true&title_color=FF1493&icon_color=00FF7F&rank_icon=github" height="150" />
+  <img src="https://img.shields.io/badge/%F0%9F%93%8A%20Estad%C3%ADsticas-0F3057?style=for-the-badge&labelColor=0F3057&color=FF1493" alt="Estadísticas" />
 </p>
 
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaidenTware&layout=compact&langs_count=6&theme=radical&hide_border=true&title_color=FF1493&text_color=FFFFFF&bg_color=0F3057" 
+    height="170"
+    alt="Lenguajes más utilizados"
+  />
+
+<img 
+ src="https://github-readme-stats.vercel.app/api?username=MaidenTware&show_icons=true&theme=radical&hide_border=true&title_color=FF1493&icon_color=00FF7F&text_color=FFFFFF&bg_color=0F3057&rank_icon=github&include_all_commits=true&count_private=true" 
+ height="170"
+ alt="Estadísticas de GitHub"
+/>
+
+</p>
 
 
 ---
