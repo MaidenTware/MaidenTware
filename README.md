@@ -1,12 +1,7 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?```html
-<div align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&duration=3500&pause=1800&color=FF1493&center=true&vCenter=true&repeat=true&width=950&lines=✨+Hola%2C+soy+LILIANA+L.C.+✨;🧩+Código+que+funciona%2C+diseño+que+conecta+🐞;💻+Desarrolladora+de+Software+Trainee;🎨+Frontend+%7C+HTML+%7C+CSS+%7C+JavaScript+%7C+React+%7C+Angular;☕+Backend+%7C+Java+%7C+Spring+Boot+%7C+Python;🗄️+MySQL+%7C+MongoDB+%7C+APIs+REST;🚀+Construyendo+proyectos+y+aprendiendo+cada+día"
-    alt="Typing SVG"
-  />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&duration=3500&pause=1800&color=FF1493&center=true&vCenter=true&repeat=true&width=950&lines=%E2%9C%A8+Hola%2C+soy+LILIANA+L.C.+%E2%9C%A8;%F0%9F%A7%A9+C%C3%B3digo+que+funciona%2C+dise%C3%B1o+que+conecta+%F0%9F%90%9E;%F0%9F%92%BB+Desarrolladora+de+Software+Trainee;%F0%9F%8E%A8+Frontend+%7C+HTML+%7C+CSS+%7C+JavaScript+%7C+React+%7C+Angular;%E2%98%95+Backend+%7C+Java+%7C+Spring+Boot+%7C+Python;%F0%9F%97%84%EF%B8%8F+MySQL+%7C+MongoDB+%7C+APIs+REST;%F0%9F%9A%80+Construyendo+proyectos+y+aprendiendo+cada+d%C3%ADa" alt="Typing SVG" />
 </div>
-```
+
 
 
 ---
